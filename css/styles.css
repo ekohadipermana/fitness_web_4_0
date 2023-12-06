@@ -1,4 +1,4 @@
-body, header, nav, main, footer, h1, div, img, ul {
+body, header, nav, main, footer, h1, div, img, ul, figure, figcaption {
     margin: 0;
     padding: 0;
     border: 0;
