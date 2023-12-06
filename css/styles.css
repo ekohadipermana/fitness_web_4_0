@@ -24,7 +24,7 @@ header {
     top: 0;
     background-color: #000;
     height: 220px;
-    /* removed:
+    /* removed: 
     width: 25%;
     float: left; */
 }
@@ -102,6 +102,12 @@ main {
     font-size: 1.35em;
     color: #666600;
     font-weight: bold;
+}
+
+.frame {
+    position: relative;
+    max-width: 450px;
+    margin: 2% auto;
 }
 
 #weights, #cardio, #training {
