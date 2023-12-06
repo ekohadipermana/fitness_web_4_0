@@ -18,8 +18,9 @@ img {
 /* Style rule for header */
 
 header {
-    position: -webkit-sticky; /* this is for safari compatibility */
-    position: sticky; /* this is for other browsers */
+    /* removed:
+    position: -webkit-sticky; 
+    position: sticky; */
     top: 0;
     background-color: #000;
     height: 220px;
