@@ -83,6 +83,10 @@ main {
     font-family: 'Roboto Slab', serif;
 }
 
+.mobile h3 {
+    text-shadow: 5px 5px 8px #ccc;
+}
+
 .tel-link {
     background-color: #404040;
     padding: 2%;
