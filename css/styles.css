@@ -206,7 +206,9 @@ footer p a {
 
     /* Tablet viewport: Style rule for header */
     header {
+        /* position removed: 
         position: static;
+        */
         padding-bottom: 2%;
     }
 
