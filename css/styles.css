@@ -232,6 +232,12 @@ footer p a {
     main ul {
         margin: 0 0 4% 10%;
     }
+
+    .grid {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        grid-gap: 20px;
+    }
     #exercises {
         clear: left;
         border-top: 1px solid #000;
