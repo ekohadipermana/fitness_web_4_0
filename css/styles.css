@@ -243,7 +243,7 @@ footer p a {
         font-size: 1em;
         padding: 10px;
     }
-    
+
     #exercises {
         clear: left;
         border-top: 1px solid #000;
@@ -311,6 +311,11 @@ footer p a {
         font-size: 1.8em;
     }
 
+    .pic-text {
+        font-size: 1.5em;
+        padding: 20px;
+    }
+    
     #weights, #cardio, #training {
         width: 29%;
         float: left;
