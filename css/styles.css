@@ -315,7 +315,15 @@ footer p a {
         font-size: 1.5em;
         padding: 20px;
     }
-    
+
+    .frame {
+        opacity: 0.9;
+    }
+
+    .frame:hover {
+        opacity: 1;
+        box-shadow: 8px 8px 10px #808080;
+    }
     #weights, #cardio, #training {
         width: 29%;
         float: left;
