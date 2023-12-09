@@ -13,6 +13,11 @@ img {
     display: block;
 }
 
+/* Style rule for box sizing applies to all elements */
+* {
+    box-sizing: border-box;
+}
+
 /* Style rules for mobile viewport */
 /* Begin style rules for mobile viewport */
 /* Style rule for header */
@@ -113,7 +118,7 @@ main {
 .pic-text {
     position: absolute;
     bottom: 0;
-    background: rgba(0, 0, 0, 0, 5);
+    background: rgba(0, 0, 0, 0.5);
     color: #fff;
     width: 100%;
     padding: 20px;
