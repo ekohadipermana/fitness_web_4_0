@@ -353,6 +353,10 @@ footer p a {
         font-size: 1.8em;
     }
 
+    article h3 {
+        font-size: 1.75em; /* the font for desktop should be bigger */
+    }
+
     .pic-text {
         font-size: 1.5em;
         padding: 20px;
